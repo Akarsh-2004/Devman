@@ -1,0 +1,11 @@
+/* CSS Reset to remove browser default spacing */
+body {
+  margin: 0;
+  padding: 0;
+}
+
+/* Remove or adjust the margin-top on your hero section */
+.hero {
+  margin-top: 0; /* Change this from 6rem to 0 */
+  /* ... other hero styles ... */
+}
